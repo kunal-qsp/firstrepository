@@ -8,6 +8,7 @@ public class Dummyclass {
 	public void m1()
 	{
 		System.out.println("my first commit");
+		System.out.println("my secound commit");
 	}
 
 }
