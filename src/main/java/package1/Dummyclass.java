@@ -9,6 +9,8 @@ public class Dummyclass {
 	{
 		System.out.println("my first commit");
 		System.out.println("my secound commit");
+		System.out.println("my third commit");
+		System.out.println("my 4th commit");
 	}
 
 }
